@@ -1,0 +1,5 @@
+robotframework==6.1.1
+robotframework-appiumlibrary==2.0.0
+robotframework-jsonlibrary==0.5
+PyYAML==6.0.1
+robotframework-requests==0.9.6
