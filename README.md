@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pi-app-automation using robot-framework
 ## Requirements
 - Install Python3
@@ -96,3 +97,7 @@ Open the command palette `macOS: (Cmd+Shift+P)` and `select "Python: Select Inte
     - Run all tests with defaults options for android, en, uat `robot -d results tests` (please ensure the default APP path exists in your local)
     - Run tag `LOGIN` with defaults options for android, en, prod `robot -v ENV:prod -v APP:"PATH_TO_APP" -d results -i LOGIN tests`
     - Run with your options `robot -v ENV:uat -v LANGUAGE:th -v LOCALE:TH -v PLATFORM_NAME:ios -v DEVICE_NAME:"iPhone 14" -v APP:"PATH_TO_APP" -v PLATFORM_VERSION=16.0 -d results-ios -i LOGIN tests`
+=======
+# Pi-App-Python-Robort-Freamework-
+Python project
+>>>>>>> origin/main
